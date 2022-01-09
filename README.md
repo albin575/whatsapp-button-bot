@@ -3,7 +3,7 @@
 src="https://s10.gifyu.com/images/87644b9756a75c15a840372f61531b14.png" alt="img" width="220" height="30"/>
 </p>
         <img 
-src="https://telegra.ph/file/2a6864171dbb3b6090bf4.mp4" alt="MP4" width="220" height="190"/>
+src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="220" height="190"/>
 </p>
 
 </div>
